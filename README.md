@@ -54,7 +54,7 @@ This is my personal habit-building initiative to:
 
 ## 📬 Feedback & Suggestions
 
-Feel free to raise issues or suggest problems you'd like to see solved here!  
+Feel free to raise issues or suggest problems you'd like to see solved here ! 
 Pull requests are welcome.
 
 ---
